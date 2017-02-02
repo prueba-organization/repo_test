@@ -1,0 +1,1 @@
+instance git@github.com:Vauxoo/addons-vauxoo.git 20.0
